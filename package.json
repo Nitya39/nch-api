@@ -1,0 +1,8 @@
+{
+  "name": "nch-api",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "mongoose": "^8.0.0"
+  }
+}
